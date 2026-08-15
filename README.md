@@ -126,5 +126,4 @@ codomax-module-2-python-project
 │
 ├── README.md
 │
-└── expense_tracker
-    └── main.py
+└── main.py
